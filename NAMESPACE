@@ -1,0 +1,5 @@
+export(
+lasso.stars
+)
+S3method("print","stars")
+S3method("plot","stars")
